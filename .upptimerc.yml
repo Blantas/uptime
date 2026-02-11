@@ -6,8 +6,8 @@ sites:
   - name: myhypha.com
     url: https://myhypha.com
   - name: adpulse.tech
-    url: http://187.77.97.140/
-  - name: host.myhypha.com (Google Cloud)
+    url: https://host.adpulse.tech/admin/auth/login
+  - name: host.adpulse.com (Google Cloud)
     url: http://34.34.39.95/
   - name: myhypha.com (Google Cloud)
     url: http://34.7.112.177/
