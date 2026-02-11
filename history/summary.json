@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/myhypha.com.ico",
     "slug": "myhypha-com",
     "status": "down",
-    "uptime": "81.28%",
-    "uptimeDay": "81.28%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "81.28%",
-    "uptimeYear": "81.28%",
+    "uptime": "28.25%",
+    "uptimeDay": "28.25%",
+    "uptimeWeek": "28.25%",
+    "uptimeMonth": "28.25%",
+    "uptimeYear": "28.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-11": 0
+      "2026-02-11": 1
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/host.adpulse.tech.ico",
     "slug": "adpulse-tech",
     "status": "down",
-    "uptime": "31.85%",
-    "uptimeDay": "31.85%",
-    "uptimeWeek": "31.85%",
-    "uptimeMonth": "31.85%",
-    "uptimeYear": "31.85%",
-    "time": 873,
-    "timeDay": 873,
-    "timeWeek": 873,
-    "timeMonth": 873,
-    "timeYear": 873,
+    "uptime": "2.53%",
+    "uptimeDay": "2.53%",
+    "uptimeWeek": "2.53%",
+    "uptimeMonth": "2.53%",
+    "uptimeYear": "2.53%",
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {
-      "2026-02-11": 0
+      "2026-02-11": 1
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 394,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   },
   {
