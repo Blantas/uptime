@@ -10,7 +10,7 @@ sites:
   - name: host.myhypha.com (Google Cloud)
     url: http://34.34.39.95/
   - name: myhypha.com (Google Cloud)
-    port: http://34.7.112.177/
+    url: http://34.7.112.177/
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
