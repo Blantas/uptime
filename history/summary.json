@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/host.adpulse.tech.ico",
     "slug": "adpulse-tech",
     "status": "up",
-    "uptime": "70.39%",
-    "uptimeDay": "70.39%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "70.39%",
-    "uptimeYear": "70.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 664,
     "timeDay": 664,
     "timeWeek": 664,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {
-      "2026-02-11": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "host.adpulse.com (Google Cloud)",
