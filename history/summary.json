@@ -22,19 +22,19 @@
     "url": "https://host.adpulse.tech/admin/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/host.adpulse.tech.ico",
     "slug": "adpulse-tech",
-    "status": "down",
-    "uptime": "79.37%",
-    "uptimeDay": "79.37%",
-    "uptimeWeek": "79.37%",
-    "uptimeMonth": "79.37%",
-    "uptimeYear": "79.37%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "73.93%",
+    "uptimeDay": "73.93%",
+    "uptimeWeek": "73.93%",
+    "uptimeMonth": "73.93%",
+    "uptimeYear": "73.93%",
+    "time": 698,
+    "timeDay": 698,
+    "timeWeek": 698,
+    "timeMonth": 698,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2026-02-11": 104
+      "2026-02-11": 141
     }
   },
   {
